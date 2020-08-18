@@ -1,16 +1,20 @@
-### Hi there 👋
-
+### Hi everyone, I’m Jimmie Jonasson
 <!--
 **jimmiejonasson/jimmiejonasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
+Before I started studying Computer Science at Stockholm University I worked as freelance actor and director for over ten years. Originally I'm from Gotland, the biggest island in Sweden, but now I live in Stockholm.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning
+I´m a real sucker for learning. And it feels like I´m in constant learning mode. So much exciting things to learn. 
+After two years with Java in school I´m now started learning Python.
+
+### Productivity
+After years with no system. Some time with GTD, Omnifocus and Todolists, I´m now trying out Personal Kanban, I´ve just started but I feel how I get so much done.
+
+### Me on the world wide...
+- [LinkedIn](http://linkedin.com/in/jimmiejonasson) 
+- [Twitter](http://twitter.com/jimmiejonasson)
+- [My Website](https://www.jimmiejonasson.se/)
+
+
