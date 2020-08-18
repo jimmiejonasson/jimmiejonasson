@@ -1,6 +1,4 @@
 ### Hi everyone, I’m Jimmie Jonasson
-<!--
-**jimmiejonasson/jimmiejonasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### About me
 Before I started studying Computer Science at Stockholm University I worked as freelance actor and director for over ten years. Originally I'm from Gotland, the biggest island in Sweden, but now I live in Stockholm.
