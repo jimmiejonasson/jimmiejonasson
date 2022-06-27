@@ -7,6 +7,6 @@ I love Programming & Poetry!
 ### Me on the world wide...
 - [LinkedIn](http://linkedin.com/in/jimmiejonasson) 
 - [Twitter](http://twitter.com/jimmiejonasson)
-- [My Website](https://www.jimmiejonasson.se/)
+
 
 
